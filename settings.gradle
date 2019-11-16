@@ -1,0 +1,6 @@
+rootProject.name = 'synthesis'
+include 'core', 'api', 'discourse', 'nlp', 'module-agenda'
+
+//findProject(':core')?.name = 'synthesis-core'
+//findProject(':api')name = 'synthesis-core'
+
